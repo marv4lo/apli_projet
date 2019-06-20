@@ -6,8 +6,8 @@ class Database
     // used to connect to the database
     private $host = "localhost";
     private $db_name = "entreprises";
-    private $username = "eric";
-    private $password = "root";
+    private $username = "";
+    private $password = "";
     public $db_conn;
 
     // get the database connection
